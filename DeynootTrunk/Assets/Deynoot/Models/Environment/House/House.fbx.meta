@@ -7,15 +7,35 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: House_Mesh
+    100004: Ceiling_Mesh
+    100006: Walls_Mesh
+    100008: Floor_Mesh
+    100010: polySurface1
     400000: //RootNode
     400002: House_Mesh
+    400004: Ceiling_Mesh
+    400006: Walls_Mesh
+    400008: Floor_Mesh
+    400010: polySurface1
     2300000: House_Mesh
+    2300002: Ceiling_Mesh
+    2300004: Walls_Mesh
+    2300006: Floor_Mesh
+    2300008: polySurface1
     3300000: House_Mesh
+    3300002: Ceiling_Mesh
+    3300004: Walls_Mesh
+    3300006: Floor_Mesh
+    3300008: polySurface1
     4300000: House_Mesh
+    4300002: Walls_Mesh
+    4300004: Ceiling_Mesh
+    4300006: Floor_Mesh
+    4300008: polySurface1
   materials:
-    importMaterials: 0
-    materialName: 0
-    materialSearch: 1
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
