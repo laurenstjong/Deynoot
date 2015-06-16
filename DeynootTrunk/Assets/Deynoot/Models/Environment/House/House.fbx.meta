@@ -11,27 +11,64 @@ ModelImporter:
     100006: Walls_Mesh
     100008: Floor_Mesh
     100010: polySurface1
+    100012: Thresholds_Mesh
+    100014: FloorBackroom_Mesh
+    100016: FloorBathroom_Mesh
+    100018: FloorBedroom_Mesh
+    100020: FloorFrontroom_Mesh
+    100022: FloorHallway_Mesh
+    100024: Floors
+    100026: FloorToilet_Mesh
     400000: //RootNode
     400002: House_Mesh
     400004: Ceiling_Mesh
     400006: Walls_Mesh
     400008: Floor_Mesh
     400010: polySurface1
+    400012: Thresholds_Mesh
+    400014: FloorBackroom_Mesh
+    400016: FloorBathroom_Mesh
+    400018: FloorBedroom_Mesh
+    400020: FloorFrontroom_Mesh
+    400022: FloorHallway_Mesh
+    400024: Floors
+    400026: FloorToilet_Mesh
     2300000: House_Mesh
     2300002: Ceiling_Mesh
     2300004: Walls_Mesh
     2300006: Floor_Mesh
     2300008: polySurface1
+    2300010: Thresholds_Mesh
+    2300012: FloorBackroom_Mesh
+    2300014: FloorBathroom_Mesh
+    2300016: FloorBedroom_Mesh
+    2300018: FloorFrontroom_Mesh
+    2300020: FloorHallway_Mesh
+    2300022: FloorToilet_Mesh
     3300000: House_Mesh
     3300002: Ceiling_Mesh
     3300004: Walls_Mesh
     3300006: Floor_Mesh
     3300008: polySurface1
+    3300010: Thresholds_Mesh
+    3300012: FloorBackroom_Mesh
+    3300014: FloorBathroom_Mesh
+    3300016: FloorBedroom_Mesh
+    3300018: FloorFrontroom_Mesh
+    3300020: FloorHallway_Mesh
+    3300022: FloorToilet_Mesh
     4300000: House_Mesh
     4300002: Walls_Mesh
     4300004: Ceiling_Mesh
     4300006: Floor_Mesh
     4300008: polySurface1
+    4300010: Thresholds_Mesh
+    4300012: FloorToilet_Mesh
+    4300014: FloorBathroom_Mesh
+    4300016: FloorHallway_Mesh
+    4300018: FloorBedroom_Mesh
+    4300020: FloorFrontroom_Mesh
+    4300022: FloorBackroom_Mesh
   materials:
     importMaterials: 1
     materialName: 1
