@@ -19,6 +19,17 @@ ModelImporter:
     100022: FloorHallway_Mesh
     100024: Floors
     100026: FloorToilet_Mesh
+    100028: Skirting_Mesh
+    100030: DoorBathroom_Mesh
+    100032: DoorCellar_Mesh
+    100034: DoorFront_Mesh
+    100036: DoorLiving_Mesh
+    100038: DoorMel_Mesh
+    100040: Doors
+    100042: DoorStudy_Mesh
+    100044: DoorStudyCupboard01_Mesh
+    100046: DoorStudyCupboard02_Mesh
+    100048: DoorToilet_Mesh
     400000: //RootNode
     400002: House_Mesh
     400004: Ceiling_Mesh
@@ -33,6 +44,17 @@ ModelImporter:
     400022: FloorHallway_Mesh
     400024: Floors
     400026: FloorToilet_Mesh
+    400028: Skirting_Mesh
+    400030: DoorBathroom_Mesh
+    400032: DoorCellar_Mesh
+    400034: DoorFront_Mesh
+    400036: DoorLiving_Mesh
+    400038: DoorMel_Mesh
+    400040: Doors
+    400042: DoorStudy_Mesh
+    400044: DoorStudyCupboard01_Mesh
+    400046: DoorStudyCupboard02_Mesh
+    400048: DoorToilet_Mesh
     2300000: House_Mesh
     2300002: Ceiling_Mesh
     2300004: Walls_Mesh
@@ -45,6 +67,16 @@ ModelImporter:
     2300018: FloorFrontroom_Mesh
     2300020: FloorHallway_Mesh
     2300022: FloorToilet_Mesh
+    2300024: Skirting_Mesh
+    2300026: DoorBathroom_Mesh
+    2300028: DoorCellar_Mesh
+    2300030: DoorFront_Mesh
+    2300032: DoorLiving_Mesh
+    2300034: DoorMel_Mesh
+    2300036: DoorStudy_Mesh
+    2300038: DoorStudyCupboard01_Mesh
+    2300040: DoorStudyCupboard02_Mesh
+    2300042: DoorToilet_Mesh
     3300000: House_Mesh
     3300002: Ceiling_Mesh
     3300004: Walls_Mesh
@@ -57,6 +89,16 @@ ModelImporter:
     3300018: FloorFrontroom_Mesh
     3300020: FloorHallway_Mesh
     3300022: FloorToilet_Mesh
+    3300024: Skirting_Mesh
+    3300026: DoorBathroom_Mesh
+    3300028: DoorCellar_Mesh
+    3300030: DoorFront_Mesh
+    3300032: DoorLiving_Mesh
+    3300034: DoorMel_Mesh
+    3300036: DoorStudy_Mesh
+    3300038: DoorStudyCupboard01_Mesh
+    3300040: DoorStudyCupboard02_Mesh
+    3300042: DoorToilet_Mesh
     4300000: House_Mesh
     4300002: Walls_Mesh
     4300004: Ceiling_Mesh
@@ -69,6 +111,16 @@ ModelImporter:
     4300018: FloorBedroom_Mesh
     4300020: FloorFrontroom_Mesh
     4300022: FloorBackroom_Mesh
+    4300024: Skirting_Mesh
+    4300026: DoorFront_Mesh
+    4300028: DoorStudy_Mesh
+    4300030: DoorLiving_Mesh
+    4300032: DoorCellar_Mesh
+    4300034: DoorToilet_Mesh
+    4300036: DoorBathroom_Mesh
+    4300038: DoorMel_Mesh
+    4300040: DoorStudyCupboard01_Mesh
+    4300042: DoorStudyCupboard02_Mesh
   materials:
     importMaterials: 1
     materialName: 1
