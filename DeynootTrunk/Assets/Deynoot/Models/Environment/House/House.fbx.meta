@@ -30,6 +30,7 @@ ModelImporter:
     100044: DoorStudyCupboard01_Mesh
     100046: DoorStudyCupboard02_Mesh
     100048: DoorToilet_Mesh
+    100050: FloorSunRoom_Mesh
     400000: //RootNode
     400002: House_Mesh
     400004: Ceiling_Mesh
@@ -55,6 +56,7 @@ ModelImporter:
     400044: DoorStudyCupboard01_Mesh
     400046: DoorStudyCupboard02_Mesh
     400048: DoorToilet_Mesh
+    400050: FloorSunRoom_Mesh
     2300000: House_Mesh
     2300002: Ceiling_Mesh
     2300004: Walls_Mesh
@@ -77,6 +79,7 @@ ModelImporter:
     2300038: DoorStudyCupboard01_Mesh
     2300040: DoorStudyCupboard02_Mesh
     2300042: DoorToilet_Mesh
+    2300044: FloorSunRoom_Mesh
     3300000: House_Mesh
     3300002: Ceiling_Mesh
     3300004: Walls_Mesh
@@ -99,6 +102,7 @@ ModelImporter:
     3300038: DoorStudyCupboard01_Mesh
     3300040: DoorStudyCupboard02_Mesh
     3300042: DoorToilet_Mesh
+    3300044: FloorSunRoom_Mesh
     4300000: House_Mesh
     4300002: Walls_Mesh
     4300004: Ceiling_Mesh
@@ -121,6 +125,7 @@ ModelImporter:
     4300038: DoorMel_Mesh
     4300040: DoorStudyCupboard01_Mesh
     4300042: DoorStudyCupboard02_Mesh
+    4300044: FloorSunRoom_Mesh
   materials:
     importMaterials: 1
     materialName: 1
