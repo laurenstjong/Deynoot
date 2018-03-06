@@ -1,5 +1,7 @@
 fileFormatVersion: 2
-guid: 9470468fda72f4773a90a0306decbf0f
+guid: efe4e5bfb4436144ebb999bd3d4d57fe
+timeCreated: 1520376768
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -7,7 +9,7 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
-    sRGBTexture: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -25,16 +27,16 @@ TextureImporter:
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 1024
+  textureFormat: 1
+  maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 2
-    aniso: 6
-    mipBias: -1
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    filterMode: 1
+    aniso: 3
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -55,37 +57,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - buildTarget: Android
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
