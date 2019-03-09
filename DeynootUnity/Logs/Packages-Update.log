@@ -53,3 +53,28 @@ Update Mode: updateDependencies
 The following packages were updated:
   com.unity.collab-proxy from version 1.2.9 to 1.2.15
   com.unity.purchasing from version 2.0.1 to 2.0.3
+
+=== Thu Mar  7 23:06:57 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.timeline@1.0.0
+The following packages were updated:
+  com.unity.analytics from version 3.2.2 to 3.3.2
+  com.unity.package-manager-ui from version 2.1.0-preview.1 to 2.1.1
+  com.unity.render-pipelines.high-definition from version 4.8.0-preview to 5.2.3-preview
+  com.unity.shadergraph from version 4.8.0-preview to 5.2.3
+
+=== Sat Mar  9 13:45:00 2019
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were updated:
+  com.unity.purchasing from version 2.0.3 to 2.0.1
+The following packages were removed:
+  com.unity.probuilder@4.0.3
+  com.unity.progrids@3.0.3-preview.4
+  com.unity.xr.legacyinputhelpers@1.0.0
